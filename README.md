@@ -105,9 +105,23 @@ const rohan = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohanb1022&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanb1022&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=rohanb1022&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanb1022&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              GREEN CONTRIBUTION GRAPH (CALENDAR)           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## `> contributions --calendar`
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/58a6ff/rohanb1022" alt="Rohan's GitHub contribution graph" width="90%"/>
 
 </div>
 
@@ -154,6 +168,12 @@ const rohan = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohanb1022/rohanb1022/output/github-contribution-grid-pacman.svg">
   <img alt="pacman contribution grid animation" src="https://raw.githubusercontent.com/rohanb1022/rohanb1022/output/github-contribution-grid-pacman-dark.svg">
 </picture>
+
+<!--
+This animation only renders once the workflow below has run at least once, since it needs
+to generate an `output` branch containing these two SVG files. See the accompanying
+snake.yml file for the one-time setup.
+-->
 
 </div>
 
